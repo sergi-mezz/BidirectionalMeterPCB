@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "pic24")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_PIC24FJ128GA310-I-PT_Sequential/KiCADv6/2023-05-15_22-46-42/pic24")(options "")(descr ""))
+  (lib (name "rn4870")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_RN4870-I-RM140/KiCADv6/2023-05-14_08-27-05/rn4870")(options "")(descr ""))
+  (lib (name "25AA320A")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_25AA320A-I-ST/KiCADv6/2023-05-13_06-14-04/25AA320A")(options "")(descr ""))
+  (lib (name "47L04")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_47L04-E-ST/KiCADv6/2023-05-13_05-49-07/47L04")(options "")(descr ""))
+)
